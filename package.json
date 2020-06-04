@@ -3,7 +3,7 @@
     "email": "developer@darksky.net",
     "name": "The Dark Sky Company"
   },
-  "description": "fast time zone lookup",
+  "description": "Some other changes... ahhhh",
   "devDependencies": {
     "mocha": "*",
     "uglify-js": "*"
